@@ -1,4 +1,4 @@
-module github.com/Carcraftz/utls
+module github.com/ManuCiao10/utls
 
 go 1.18
 
